@@ -1,2 +1,2 @@
-# tdosca-tc07-hierhw
-Simple "Hello World" with hierarchical overlapping licenses and copyrights
+# tdosca-tc08-dualhw
+Simple "Hello World" with dual licensing and copyrights
