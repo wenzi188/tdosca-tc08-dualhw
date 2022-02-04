@@ -14,8 +14,12 @@
     </properties>
     <licenses>
         <license>
-            <name>Apache-1.1</name>
-            <comments>SPDX-License-Identifier:Apache-1.1</comments>
+            <name>Apache-2.0</name>
+            <comments>SPDX-License-Identifier:Apache-2.0</comments>
+        </license>
+        <license>
+            <name>BSD-3-Clause</name>
+            <comments>SPDX-License-Identifier:BSD-3-Clause</comments>
         </license>
     </licenses>
 
@@ -27,13 +31,6 @@
             <artifactId>h2</artifactId>
             <version>2.1.210</version>
         </dependency>
-        <dependency>
-            <groupId>com.h2database</groupId>
-            <artifactId>h2</artifactId>
-            <version>1.4.200</version>
-            <scope>compile</scope>
-        </dependency>
-
     </dependencies>
 
 </project>
