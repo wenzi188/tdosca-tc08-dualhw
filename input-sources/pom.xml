@@ -21,7 +21,12 @@
             <name>BSD-3-Clause</name>
             <comments>SPDX-License-Identifier:BSD-3-Clause</comments>
         </license>
+        <license>
+            <name>MIT_Apache-1.0</name>
+            <comments>SPDX-License-Identifier:MIT AND Apache-1.0</comments>
+        </license>
     </licenses>
+
 
     <!-- https://mvnrepository.com/artifact/com.h2database/h2 -->
 
