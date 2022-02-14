@@ -15,8 +15,15 @@
 
 package tc08;
 
+import common.SubAPACHEBSD;
+import utils.de.SubUTILS;
+
 public class MainAPACHE {
     public static void main(String[] args) {
+        SubAPACHEBSD s = new SubAPACHEBSD();
+        s.sayHello();
+        SubUTILS t = new SubUTILS();
+        t.sayHello();
         System.out.println("de.tdosca.tc08.Main: 'Hello!'.");
     }
 }
