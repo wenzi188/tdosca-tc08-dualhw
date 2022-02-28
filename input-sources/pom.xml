@@ -26,7 +26,7 @@
 
     <!-- https://mvnrepository.com/artifact/com.h2database/h2 -->
 
-    <dependencies>
+    <!--dependencies>
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
@@ -37,6 +37,6 @@
             <artifactId>feign-httpclient</artifactId>
             <version>11.7</version>
         </dependency>
-    </dependencies>
+    </dependencies-->
 
 </project>
